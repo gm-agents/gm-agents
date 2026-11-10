@@ -1,4 +1,4 @@
-## Hi, I'm Girish
+## Hi, I am Girish
 
 I am a VP of Product at Fidelity Investments. I have worked across product, engineering, design, research and finance, and I did graduate research in human factors at Bentley University. That background is why I care as much about the human using an AI product as about the model inside it. Outside my day job I work on developing ideas, perspectives and tactics on AI-native product management. I consider myself completely AI pilled.
 
