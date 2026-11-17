@@ -4,7 +4,7 @@ I am a VP of Product at Fidelity Investments. I have worked across product, engi
 
 ### What I am building (private repositories)
 
-- **[A Comprehensive Training and Thought Leadership on AI-Native Product Management](https://ainativeproductmanager.com)** is a free resource that I have created. It holds my product frameworks and The Builder's Stack, a hands-on course that starts with how software works and ends with running an AI organization. It has no paywall, no account and no ads.
+- **[ainativeproductmanager.com is a Comprehensive Training and Thought Leadership on AI-Native Product Management](https://ainativeproductmanager.com)** is a free resource that I have created. It holds my product frameworks and The Builder's Stack, a hands-on course that starts with how software works and ends with running an AI organization. It has no paywall, no account and no ads.
 - **[technicalenough.ai](https://technicalenough.ai)** is its sister site, which teaches the technology fundamentals to people who have never shipped software.
 - **[FuelTheFam](https://fuelthefam.com)** is a family nutrition app we built with AI. We wrote it up as a [case study](https://ainativeproductmanager.com/case-study/fuelthefam) of the course applied to a real product.
 
